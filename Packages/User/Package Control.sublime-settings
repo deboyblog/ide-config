@@ -1,0 +1,35 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AutoFileName",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"ChineseLocalization",
+		"ColorPicker",
+		"Colorsublime",
+		"DocBlockr",
+		"EncodingHelper",
+		"Jade",
+		"Jade Snippets",
+		"jQuery",
+		"LESS",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeAStyleFormatter",
+		"Tag",
+		"Terminal",
+		"Theme - Asphalt",
+		"Theme - Flatland",
+		"Theme - itg.flat",
+		"Theme - Soda",
+		"Theme - Spacegray",
+		"Vue Syntax Highlight",
+		"Vuejs Complete Package",
+		"Vuejs Snippets"
+	]
+}
