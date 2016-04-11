@@ -5,9 +5,25 @@
 	"font_size": 13,
 	"ignored_packages":
 	[
-		"ColorPicker",
-		"Vintage"
+		"ASP",
+		"C#",
+		"ChineseLocalization",
+		"Color Scheme - Default",
+		"D",
+		"EncodingHelper",
+		"Go",
+		"Java",
+		"LaTeX",
+		"Lisp",
+		"Lua",
+		"Perl",
+		"Python",
+		"Vintage",
+		"vue-syntax-highlight"
 	],
 	"show_encoding": true,
-	"theme": "Flatland Dark.sublime-theme"
+	"tab_size": 2,
+	"theme": "Flatland Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"folder_exclude_patterns": [".svn", ".git", ".idea", ".hg", "CVS", "node_modules"]
 }

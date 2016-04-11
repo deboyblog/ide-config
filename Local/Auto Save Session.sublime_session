@@ -1,17 +1,17 @@
 {
 	"folder_history":
 	[
-		"/E/laragon/www/wxgxdc",
-		"/E/laragon/www/flight-delay",
+		"/E/laragon/www/guji",
 		"/E/laragon/www/paotui",
 		"/E/laragon/www/DeAdmin",
+		"/E/laragon/www/wxgxdc",
+		"/E/laragon/www/flight-delay",
 		"/E/laragon/www/gujipt",
-		"/E/laragon/www/guji",
 		"/E/laragon/www/biaobai",
 		"/E/laragon/www/laravel"
 	],
 	"last_version": 3103,
-	"last_window_id": 46,
+	"last_window_id": 56,
 	"log_indexing": false,
 	"settings":
 	{
@@ -23,6 +23,106 @@
 				"selected_items":
 				[
 					[
+						"mar",
+						"margin-top"
+					],
+					[
+						"f",
+						"flex"
+					],
+					[
+						"dingwei",
+						"a_dingweiyuan@2x.png	w:46 h:46"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"lo",
+						"Location"
+					],
+					[
+						"key",
+						"keyWord"
+					],
+					[
+						"fon",
+						"font-size"
+					],
+					[
+						"com",
+						"component"
+					],
+					[
+						"su",
+						"subRoutes"
+					],
+					[
+						"padd",
+						"padding"
+					],
+					[
+						"tex",
+						"text-align"
+					],
+					[
+						"te",
+						"text-align"
+					],
+					[
+						"li",
+						"list-style"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"reco",
+						"Recommedn"
+					],
+					[
+						"zao",
+						"a_zaocan@2x.png	w:126 h:126"
+					],
+					[
+						"main",
+						"main.less"
+					],
+					[
+						"fan",
+						"c_fanhui@2x.png	w:46 h:46"
+					],
+					[
+						"gouwu",
+						"a_gouwuche@2x.png	w:46 h:46"
+					],
+					[
+						"border",
+						"border-bottom"
+					],
+					[
+						"diancan",
+						"a_diancan2@2x.png	w:63 h:80"
+					],
+					[
+						"dian",
+						"a_diancan1@2x.png	w:63 h:80"
+					],
+					[
+						"s",
+						"style.less"
+					],
+					[
+						"wode",
+						"a_wode1@2x.png	w:63 h:80"
+					],
+					[
+						"din",
+						"a_dingdan1@2x.png	w:63 h:80"
+					],
+					[
 						"ch",
 						"chooseWXPay"
 					],
@@ -83,10 +183,6 @@
 						"studentId"
 					],
 					[
-						"su",
-						"submit	.submit()"
-					],
-					[
 						"par",
 						"params"
 					],
@@ -103,10 +199,6 @@
 						"authText"
 					],
 					[
-						"mar",
-						"margin-left"
-					],
-					[
 						"template",
 						"templateJson"
 					],
@@ -120,10 +212,6 @@
 					],
 					[
 						"tem",
-						"templateJson"
-					],
-					[
-						"te",
 						"templateJson"
 					],
 					[
@@ -167,10 +255,6 @@
 						"taskList"
 					],
 					[
-						"fon",
-						"font-size"
-					],
-					[
 						"ba",
 						"background"
 					],
@@ -211,10 +295,6 @@
 						"tarnsition"
 					],
 					[
-						"com",
-						"component"
-					],
-					[
 						"jq",
 						"jquery.min.js"
 					],
@@ -229,10 +309,6 @@
 					[
 						"boo",
 						"bootstrap.min.css"
-					],
-					[
-						"s",
-						"src/"
 					],
 					[
 						"A",
@@ -285,10 +361,6 @@
 					[
 						"a",
 						"arrairport"
-					],
-					[
-						"li",
-						"library/"
 					],
 					[
 						"pro",
@@ -395,10 +467,6 @@
 						"getItem"
 					],
 					[
-						"lo",
-						"localStorage"
-					],
-					[
 						"_s",
 						"_SESSION"
 					],
@@ -439,10 +507,6 @@
 						"rgba(r,g,b,a)"
 					],
 					[
-						"padd",
-						"padding"
-					],
-					[
 						"inli",
 						"inline-block"
 					],
@@ -469,1110 +533,9 @@
 					[
 						"wa",
 						"wallet"
-					],
-					[
-						"bac",
-						"background-color"
-					],
-					[
-						"p",
-						"padding-bottom"
-					],
-					[
-						"border",
-						"border"
-					],
-					[
-						"nav",
-						"navActiveColor"
-					],
-					[
-						"pos",
-						"post"
-					],
-					[
-						"tr",
-						"true"
-					],
-					[
-						"type",
-						"typeId"
-					],
-					[
-						"arra",
-						"array"
-					],
-					[
-						"ty",
-						"typeList"
-					],
-					[
-						"border-bo",
-						"border-bottom"
-					],
-					[
-						"pad",
-						"padding"
-					],
-					[
-						"sor",
-						"sortName"
-					],
-					[
-						"chan",
-						"changeSort"
-					],
-					[
-						"cl",
-						"class"
-					],
-					[
-						"add",
-						"AddTask"
-					],
-					[
-						"rbg",
-						"rgba(r,g,b,a)"
 					]
 				]
 			},
-			"build_system_choices":
-			[
-			],
-			"build_varint": "",
-			"command_palette":
-			{
-				"height": 370.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"pac",
-						"Package Control: Install Package"
-					],
-					[
-						"pa",
-						"Package Control: Install Package"
-					],
-					[
-						"sysp",
-						"Set Syntax: PHP"
-					],
-					[
-						"sysph",
-						"Set Syntax: PHP"
-					],
-					[
-						"sysjs",
-						"Set Syntax: JSON"
-					],
-					[
-						"sys",
-						"Set Syntax: PHP"
-					],
-					[
-						"syshe",
-						"Set Syntax: HTML (Erlang)"
-					],
-					[
-						"sysja",
-						"Set Syntax: JavaScript"
-					],
-					[
-						"sy",
-						"Set Syntax: PHP"
-					],
-					[
-						"pack",
-						"Package Control: Disable Package"
-					],
-					[
-						"PACK",
-						"Package Control: Install Package"
-					],
-					[
-						"map",
-						"View: Toggle Minimap"
-					],
-					[
-						"theme",
-						"Colorsublime: Install Theme"
-					],
-					[
-						"sid",
-						"View: Toggle Side Bar"
-					],
-					[
-						"sysjade",
-						"Set Syntax: Jade"
-					],
-					[
-						"sysle",
-						"Set Syntax: LESS"
-					],
-					[
-						"p",
-						"Package Control: Install Package"
-					]
-				],
-				"width": 496.0
-			},
-			"console":
-			{
-				"height": 160.0,
-				"history":
-				[
-					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/E/laragon/www/paotui/dist/assets/js/app_b4c7f37.js",
-				"/E/laragon/www/paotui/dist/index.html",
-				"/E/laragon/www/paotui/dist/assets/js/all.js",
-				"/E/laragon/www/paotui/dist/assets/js/app_12b8dac.js",
-				"/E/laragon/www/paotui/fis-conf.js",
-				"/C/Users/Deboy/Desktop/index.js",
-				"/E/laragon/www/paotui/comp_src/task/Detail.js",
-				"/E/laragon/www/guji/.eslintrc.js",
-				"/E/laragon/www/paotui/api/upload.php",
-				"/E/laragon/www/paotui/api/get.php",
-				"/E/laragon/www/paotui/comp_src/ucenter/Order.js",
-				"/E/laragon/www/guji/.editorconfig",
-				"/E/laragon/www/paotui/index.jade",
-				"/E/laragon/www/paotui/dist/.gitignore",
-				"/E/laragon/www/paotui/.gitignore",
-				"/E/laragon/www/paotui/.git/config",
-				"/E/laragon/www/paotui/dist/.git/config",
-				"/E/laragon/www/paotui/dist/components/Present_58a1633.js",
-				"/C/Users/Deboy/Desktop/.user.ini",
-				"/E/laragon/www/paotui/dist/assets/js/app_1b1704c.js",
-				"/E/laragon/www/paotui/doc/服务器信息.txt",
-				"/E/laragon/www/paotui/comp_src/ucenter/Wallet.js",
-				"/E/laragon/www/paotui/comp_src/task/Watch.js",
-				"/E/laragon/www/paotui/assets/css/app.less",
-				"/E/laragon/www/paotui/assets/css/media.less",
-				"/E/laragon/www/paotui/comp_src/ucenter/UHome.js",
-				"/E/laragon/www/test/index.html",
-				"/E/laragon/www/paotui/comp_src/home/task-list.js",
-				"/E/laragon/www/paotui/comp_src/ucenter/Personal.js",
-				"/E/laragon/www/paotui/comp_src/account/Auth.js",
-				"/E/laragon/www/paotui/comp_src/Ucenter.js",
-				"/E/laragon/www/paotui/comp_src/Home.js",
-				"/E/laragon/www/paotui/comp_src/Present.js",
-				"/E/laragon/www/paotui/comp_src/task/Task.js",
-				"/D/chrome下载/cvm (1).csv",
-				"/E/laragon/www/paotui/comp_src/common/empty-list.js",
-				"/E/laragon/www/paotui/assets/js/app.js",
-				"/C/Users/Deboy/AppData/Local/Temp/360zip$Temp/360$1/backIngOrder.js",
-				"/C/Users/Deboy/AppData/Local/Temp/360zip$Temp/360$0/photoUpload.js",
-				"/E/laragon/www/paotui/comp_src/Account.js",
-				"/E/laragon/www/paotui/comp_src/Test.js",
-				"/E/laragon/www/paotui/comp_src/task/Add.js",
-				"/E/laragon/www/paotui/api/count.php",
-				"/E/laragon/www/paotui/package.json",
-				"/E/laragon/www/paotui/components/account/CompleteUserInfo.js",
-				"/E/laragon/www/paotui/comp_src/account/Login.js",
-				"/E/laragon/www/paotui/comp_src/task/Pay.js",
-				"/E/laragon/www/paotui/components/Tool.js",
-				"/C/Users/Deboy/Desktop/connections.ncx",
-				"/C/Users/Deboy/AppData/Local/Temp/360zip$Temp/360$0/AuthMapper.java",
-				"/C/Users/Deboy/AppData/Local/Temp/360zip$Temp/360$1/Order.java",
-				"/C/Users/Deboy/AppData/Local/Temp/360zip$Temp/360$0/WalletController.java",
-				"/E/laragon/www/paotui/comp_src/Tool.js",
-				"/E/laragon/www/paotui/comp_src/task/Edit.js",
-				"/E/laragon/www/paotui/comp_src/common/Auth.js",
-				"/E/laragon/www/paotui/api/json.php",
-				"/E/laragon/www/paotui/comp_src/task/WatchTask.js",
-				"/C/Users/Deboy/AppData/Roaming/Sublime Text 3/.git/config",
-				"/C/Users/Deboy/Desktop/alert.html",
-				"/E/laragon/www/paotui/alert.html",
-				"/E/laragon/www/DeAdmin/src/components/account/findpwd.vue",
-				"/E/laragon/www/DeAdmin/src/components/account/login.vue",
-				"/E/laragon/www/DeAdmin/src/components/account/register.vue",
-				"/E/laragon/www/DeAdmin/src/components/Article.vue",
-				"/E/laragon/www/DeAdmin/src/components/User.vue",
-				"/E/laragon/www/DeAdmin/src/App.vue",
-				"/E/laragon/www/DeAdmin/src/components/user/add.vue",
-				"/E/laragon/www/DeAdmin/static/config/content.header.config.js",
-				"/E/laragon/www/DeAdmin/static/config/vue-resource.config.js",
-				"/E/laragon/www/DeAdmin/src/components/layout/aside.vue",
-				"/E/laragon/www/DeAdmin/src/components/layout/content-header.vue",
-				"/E/laragon/www/DeAdmin/dist/static/aside.config.js",
-				"/E/laragon/www/DeAdmin/src/components/Dashboard.vue",
-				"/E/laragon/www/DeAdmin/src/components/layout/header.vue",
-				"/E/laragon/www/DeAdmin/src/components/Account.vue",
-				"/E/laragon/www/DeAdmin/src/components/account",
-				"/E/laragon/www/DeAdmin/dist/static/js/app.js",
-				"/E/laragon/www/DeAdmin/dist/index.html",
-				"/E/laragon/www/DeAdmin/static/aside.config.js",
-				"/E/laragon/www/DeAdmin/static/content.header.config.js",
-				"/E/laragon/www/DeAdmin/src/components/user/blacklist.vue",
-				"/E/laragon/www/DeAdmin/src/components/user/manage.vue",
-				"/E/laragon/www/DeAdmin/src/components/layout/content-header-config.js",
-				"/E/laragon/www/DeAdmin/src/components/article/trash.vue",
-				"/E/laragon/www/DeAdmin/src/components/article/manage.vue",
-				"/E/laragon/www/DeAdmin/src/components/article/category.vue",
-				"/E/laragon/www/DeAdmin/src/components/article/add.vue",
-				"/E/laragon/www/DeAdmin/src/main.js",
-				"/C/Users/Deboy/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/C/Users/Deboy/AppData/Roaming/Sublime Text 3/Packages/User/vue.sublime-settings",
-				"/E/laragon/www/DeAdmin/index.html",
-				"/E/laragon/www/DeAdmin/src/components/layout/footer.vue",
-				"/E/laragon/www/DeAdmin/package.json",
-				"/E/laragon/www/DeAdmin/README.md",
-				"/E/laragon/www/DeAdmin/.git/config",
-				"/C/Users/Deboy/.ssh/id_rsa.pub",
-				"/E/laragon/www/DeAdmin/src/components/layout/content.vue",
-				"/E/laragon/www/DeAdmin/static/css/AdminLTE.min.css",
-				"/E/laragon/www/DeAdmin/dist/static/css/AdminLTE.min.css",
-				"/E/laragon/www/DeAdmin/src/components/Home.vue",
-				"/E/laragon/www/DeAdmin/src/components/Hello.vue",
-				"/E/laragon/www/DeAdmin/src/router.js",
-				"/E/laragon/www/DeAdmin/.gitignore",
-				"/D/chrome下载/cvm.csv",
-				"/C/Users/Deboy/Desktop/histweather_sample.csv",
-				"/E/laragon/www/flight-delay/.gitignore",
-				"/E/laragon/www/flight-delay/api/lib/Analysis.class.php",
-				"/C/Users/Deboy/Desktop/query.conf",
-				"/E/laragon/www/flight-delay/help.html",
-				"/E/laragon/www/flight-delay/about.html",
-				"/E/laragon/www/flight-delay/flight.conf",
-				"/E/laragon/www/flight-delay/api/getFlightDelay.php",
-				"/E/laragon/www/flight-delay/package.json",
-				"/E/laragon/www/flight-delay/api/tpl.html",
-				"/E/laragon/www/flight-delay/api/tpl2.html",
-				"/E/laragon/www/flight-delay/api/lib/DB.class.php",
-				"/E/laragon/www/flight-delay/assets/css/app.css",
-				"/E/laragon/www/flight-delay/index.html",
-				"/E/laragon/www/flight-delay/assets/js/app.js",
-				"/E/laragon/www/flight-delay/api/lib.php",
-				"/E/laragon/www/flight-delay/api/library/DB.class.php",
-				"/E/laragon/www/flight-delay/api/library/CurlQuery.class.php",
-				"/E/laragon/www/flight-delay/node_modules/bootstrap/dist/css/bootstrap-theme.min.css",
-				"/E/laragon/www/flight-delay/api/library.php",
-				"/E/laragon/www/paotui/comp_src/task/AddTask.js",
-				"/E/laragon/www/paotui/comp_src/home/slideshow.js",
-				"/E/laragon/www/paotui/api/composer.json",
-				"/E/laragon/www/gujipt/index.html"
-			],
-			"find":
-			{
-				"height": 37.0
-			},
-			"find_in_files":
-			{
-				"height": 96.0,
-				"where_history":
-				[
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"root",
-					"ropot",
-					"root",
-					"length",
-					"ORDERLIST",
-					"orderList",
-					"3",
-					"2",
-					"1",
-					"state",
-					"showDetail",
-					"status",
-					"slectOneWithdraw",
-					"route",
-					"idCardFile",
-					"about",
-					"complete",
-					"detail",
-					"money",
-					".trim()",
-					"form",
-					"from",
-					"form",
-					"canSubmit",
-					"consoile",
-					"name",
-					"add-task",
-					"'",
-					"'+",
-					"'",
-					"'+",
-					":",
-					"stress",
-					"canLoadMore",
-					"changetemplate",
-					"task-list",
-					"task-info",
-					"toggleTemplateSelect",
-					"templateId",
-					"type",
-					"manage",
-					"分类管理",
-					"\"",
-					"\"n",
-					"文章",
-					"data",
-					"新增",
-					"png",
-					"/static/img",
-					"google",
-					"dist",
-					"true",
-					"dist",
-					"../../assets/",
-					"../../",
-					"dist",
-					"skin",
-					"assets",
-					"dist",
-					"Home",
-					"home",
-					"hot",
-					"start",
-					"出发",
-					"p>",
-					"<p",
-					"中国",
-					"南方",
-					"\"",
-					"flight-associate",
-					"\"",
-					"/",
-					"\"",
-					"/",
-					"\"",
-					"ml5",
-					"中国国航",
-					"time",
-					"class=\"time\"",
-					"time",
-					"%;\n",
-					"col-sm-2 ",
-					"checkbox",
-					"/a",
-					"a",
-					"2000",
-					"协议",
-					"'",
-					"+",
-					"'",
-					"'+",
-					"'",
-					"'+",
-					"task",
-					"'+",
-					"'",
-					"'+",
-					"reset-ul",
-					"'",
-					"'+",
-					"top-tabs",
-					"input-filed",
-					"'",
-					"'+",
-					"'",
-					"label{",
-					"input",
-					"from",
-					"'",
-					"'+",
-					"+",
-					"'",
-					"+",
-					"'",
-					"form-control",
-					"space",
-					"filed",
-					":",
-					"back-btn",
-					"form-control",
-					"boxErrorColor",
-					"body",
-					"'<",
-					"'+",
-					"present",
-					"='",
-					"`",
-					"'"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-					"task",
-					"price",
-					"=>",
-					"changeTemplate",
-					"id",
-					"template",
-					"'",
-					"用户",
-					"../../assets",
-					"/static",
-					"/static/",
-					"../../assets",
-					"assets",
-					"checkbox-mater",
-					"form-group",
-					"label-mater{",
-					"input-mater",
-					"from-mater",
-					"node_modules",
-					""
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"incremental_find":
-			{
-				"height": 28.0
-			},
-			"input":
-			{
-				"height": 36.0
-			},
-			"menu_visible": true,
-			"output.find_results":
-			{
-				"height": 0.0
-			},
-			"pinned_build_system": "",
-			"replace":
-			{
-				"height": 70.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"app",
-						"js\\app.js"
-					]
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_symbol":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"show_minimap": false,
-			"show_open_files": true,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 211.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			}
-		},
-		"new_window_width": 1168.0
-	},
-	"windows":
-	[
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"ch",
-						"chooseWXPay"
-					],
-					[
-						"error",
-						"errorCallBack"
-					],
-					[
-						"if",
-						"ifHave"
-					],
-					[
-						"err",
-						"errorMsg"
-					],
-					[
-						"can",
-						"canSubmit"
-					],
-					[
-						"sh",
-						"showMsg"
-					],
-					[
-						"sta",
-						"statusText"
-					],
-					[
-						"cance",
-						"cancelConfirm"
-					],
-					[
-						"show",
-						"showDetail"
-					],
-					[
-						"is",
-						"isPass"
-					],
-					[
-						"_",
-						"_FILES"
-					],
-					[
-						"file",
-						"files"
-					],
-					[
-						"ida",
-						"idCardFile"
-					],
-					[
-						"id",
-						"idCartFile"
-					],
-					[
-						"st",
-						"studentId"
-					],
-					[
-						"su",
-						"submit	.submit()"
-					],
-					[
-						"par",
-						"params"
-					],
-					[
-						"for",
-						"form"
-					],
-					[
-						"au",
-						"auth"
-					],
-					[
-						"auth",
-						"authText"
-					],
-					[
-						"mar",
-						"margin-left"
-					],
-					[
-						"template",
-						"templateJson"
-					],
-					[
-						"has",
-						"hasFill"
-					],
-					[
-						"form",
-						"form"
-					],
-					[
-						"tem",
-						"templateJson"
-					],
-					[
-						"te",
-						"templateJson"
-					],
-					[
-						"inn",
-						"innerText"
-					],
-					[
-						"cli",
-						"clipboardData"
-					],
-					[
-						"item",
-						"itemSet"
-					],
-					[
-						"re",
-						"remove	.remove()"
-					],
-					[
-						"temla",
-						"templateList"
-					],
-					[
-						"array",
-						"array"
-					],
-					[
-						"arr",
-						"array"
-					],
-					[
-						"de",
-						"detail"
-					],
-					[
-						"sort",
-						"sortQuery"
-					],
-					[
-						"task",
-						"taskList"
-					],
-					[
-						"fon",
-						"font-size"
-					],
-					[
-						"ba",
-						"background"
-					],
-					[
-						"bg",
-						"background	Attr"
-					],
-					[
-						"ale",
-						"alertList"
-					],
-					[
-						"fin",
-						"findpwd.vue"
-					],
-					[
-						"sub",
-						"subRoutes"
-					],
-					[
-						"Vu",
-						"VueResource"
-					],
-					[
-						"us",
-						"use"
-					],
-					[
-						"con",
-						"ContentHeaderConfig"
-					],
-					[
-						"to",
-						"toggle	.toggle()"
-					],
-					[
-						"ta",
-						"tarnsition"
-					],
-					[
-						"com",
-						"component"
-					],
-					[
-						"jq",
-						"jquery.min.js"
-					],
-					[
-						"j",
-						"jquery/"
-					],
-					[
-						"admi",
-						"AdminLTE.min.css"
-					],
-					[
-						"boo",
-						"bootstrap.min.css"
-					],
-					[
-						"s",
-						"src/"
-					],
-					[
-						"A",
-						"AdminLTE.min.css"
-					],
-					[
-						"h",
-						"Home.vue"
-					],
-					[
-						"font-s",
-						"font-size"
-					],
-					[
-						"res",
-						"response"
-					],
-					[
-						"han",
-						"handlebars.min.js"
-					],
-					[
-						"fet",
-						"fetchRes"
-					],
-					[
-						"ex",
-						"explode"
-					],
-					[
-						"fe",
-						"fetchRes"
-					],
-					[
-						"js",
-						"json_encode"
-					],
-					[
-						"pu",
-						"public"
-					],
-					[
-						"prin",
-						"print_r"
-					],
-					[
-						"json",
-						"json_encode"
-					],
-					[
-						"a",
-						"arrairport"
-					],
-					[
-						"li",
-						"library/"
-					],
-					[
-						"pro",
-						"progressInterval"
-					],
-					[
-						"po",
-						"progressInterval"
-					],
-					[
-						"set",
-						"setTimeout"
-					],
-					[
-						"pr",
-						"progress"
-					],
-					[
-						"margin",
-						"margin-top"
-					],
-					[
-						"min",
-						"min-height"
-					],
-					[
-						"b",
-						"bootstrap.min.css"
-					],
-					[
-						"jso",
-						"json_encode"
-					],
-					[
-						"ten",
-						"templateJSON"
-					],
-					[
-						"font",
-						"font-size"
-					],
-					[
-						"temp",
-						"templateId"
-					],
-					[
-						"bo",
-						"border-bottom"
-					],
-					[
-						"fro",
-						"form"
-					],
-					[
-						"ha",
-						"hasFill"
-					],
-					[
-						"MS",
-						"MessageBox"
-					],
-					[
-						"bor",
-						"border-bottom"
-					],
-					[
-						"selec",
-						"selected"
-					],
-					[
-						"edi",
-						"editing"
-					],
-					[
-						"ed",
-						"editable"
-					],
-					[
-						"user",
-						"username"
-					],
-					[
-						"se",
-						"set	set"
-					],
-					[
-						"en",
-						"editing"
-					],
-					[
-						"btn",
-						"btn-common"
-					],
-					[
-						"ma",
-						"margin-left"
-					],
-					[
-						"get",
-						"getItem"
-					],
-					[
-						"ge",
-						"getItem"
-					],
-					[
-						"lo",
-						"localStorage"
-					],
-					[
-						"_s",
-						"_SESSION"
-					],
-					[
-						"fil",
-						"file_put_contents"
-					],
-					[
-						"file_",
-						"file_get_contents"
-					],
-					[
-						"Lo",
-						"LOGIN_APi"
-					],
-					[
-						"log",
-						"logout"
-					],
-					[
-						"pass",
-						"password"
-					],
-					[
-						"ca",
-						"captcha"
-					],
-					[
-						"reS",
-						"reSendCount"
-					],
-					[
-						"send",
-						"sendText"
-					],
-					[
-						"rg",
-						"rgba(r,g,b,a)"
-					],
-					[
-						"padd",
-						"padding"
-					],
-					[
-						"inli",
-						"inline-block"
-					],
-					[
-						"box",
-						"box-sizing"
-					],
-					[
-						"in",
-						"input"
-					],
-					[
-						"do",
-						"domain"
-					],
-					[
-						"comp",
-						"complete"
-					],
-					[
-						"fontC",
-						"navFontColor"
-					],
-					[
-						"wa",
-						"wallet"
-					],
-					[
-						"bac",
-						"background-color"
-					],
-					[
-						"p",
-						"padding-bottom"
-					],
-					[
-						"border",
-						"border"
-					],
-					[
-						"nav",
-						"navActiveColor"
-					],
-					[
-						"pos",
-						"post"
-					],
-					[
-						"tr",
-						"true"
-					],
-					[
-						"type",
-						"typeId"
-					],
-					[
-						"arra",
-						"array"
-					],
-					[
-						"ty",
-						"typeList"
-					],
-					[
-						"border-bo",
-						"border-bottom"
-					],
-					[
-						"pad",
-						"padding"
-					],
-					[
-						"sor",
-						"sortName"
-					],
-					[
-						"chan",
-						"changeSort"
-					],
-					[
-						"cl",
-						"class"
-					],
-					[
-						"add",
-						"AddTask"
-					],
-					[
-						"rbg",
-						"rgba(r,g,b,a)"
-					]
-				]
-			},
-			"buffers":
-			[
-				{
-					"file": "/E/laragon/www/paotui/assets/js/app.js",
-					"settings":
-					{
-						"buffer_size": 3647,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/E/laragon/www/paotui/comp_src/task/Pay.js",
-					"settings":
-					{
-						"buffer_size": 3442,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"contents": "Package Control Messages\n========================\n\nSASS Snippets\n-------------\n\n  Sass Snippets for Sublime\n  =========================\n  \n  Sass snippets for Sublime text 2/3.\n  \n  \n  Content\n  =======\n  \n  - Directives snippets\n  - Flags snippets\n  - Functions snippets\n  - CSS Extensions snippets\n  \n  \n  Authors\n  =======\n  \n  Claudio Sanches\n      Twitter : @claudiosmweb\n      Github  : https://github.com/claudiosmweb\n  \n  Vitor Britto\n      Twitter : @vitorbritto\n      Github  : https://github.com/vitorbritto\n  \n  \n  Support\n  =======\n  \n  Please direct any feedback to <sublimebrasil@vitorbritto.com.br> or through github at https://github.com/sublimebrasil/sublime-snippets-sass.\n  \n  Thank you for your support.\n",
-					"settings":
-					{
-						"buffer_size": 725,
-						"line_ending": "Windows",
-						"name": "Package Control Messages",
-						"read_only": true,
-						"scratch": true
-					}
-				},
-				{
-					"file": "/E/laragon/www/paotui/package.json",
-					"settings":
-					{
-						"buffer_size": 1019,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/E/laragon/www/paotui/comp_src/account/Register.js",
-					"settings":
-					{
-						"buffer_size": 4453,
-						"line_ending": "Windows"
-					}
-				}
-			],
-			"build_system": "",
 			"build_system_choices":
 			[
 			],
@@ -1588,11 +551,27 @@
 						"Package Control: Install Package"
 					],
 					[
-						"pac",
-						"Package Control: Install Package"
+						"profile events",
+						"Plugin Development: Profile Events"
 					],
 					[
 						"pa",
+						"Package Control: Disable Package"
+					],
+					[
+						"sysv",
+						"Set Syntax: Vue Component"
+					],
+					[
+						"sjs",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"sysjs",
+						"Set Syntax: JSON"
+					],
+					[
+						"pac",
 						"Package Control: Install Package"
 					],
 					[
@@ -1602,10 +581,6 @@
 					[
 						"sysph",
 						"Set Syntax: PHP"
-					],
-					[
-						"sysjs",
-						"Set Syntax: JSON"
 					],
 					[
 						"sys",
@@ -1659,6 +634,8 @@
 				"height": 160.0,
 				"history":
 				[
+					"profile events;",
+					"profile events",
 					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
 				]
 			},
@@ -1671,14 +648,44 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
-			"expanded_folders":
-			[
-				"/E/laragon/www/paotui",
-				"/E/laragon/www/paotui/assets",
-				"/E/laragon/www/paotui/assets/js"
-			],
 			"file_history":
 			[
+				"/E/laragon/www/guji/src/components/location/search.vue",
+				"/E/laragon/www/guji/src/components/home/list.vue",
+				"/E/laragon/www/guji/src/components/home/menu.vue",
+				"/E/laragon/www/guji/src/components/Home.vue",
+				"/E/laragon/www/guji/src/components/home/topbar.vue",
+				"/E/laragon/www/guji/src/components/common/topbar.vue",
+				"/E/laragon/www/guji/src/App.vue",
+				"/E/laragon/www/guji/src/components/Cart.vue",
+				"/E/laragon/www/guji/src/components/home/location.vue",
+				"/E/laragon/www/guji/src/components/home/snappup.vue",
+				"/E/laragon/www/guji/src/components/home/card.vue",
+				"/E/laragon/www/guji/src/components/common/tabbar.vue",
+				"/E/laragon/www/guji/src/components/home/recommend.vue",
+				"/E/laragon/www/guji/src/assets/home",
+				"/E/laragon/www/guji/src/services/readme.txt",
+				"/E/laragon/www/guji/src/services/location.vue",
+				"/E/laragon/www/guji/build/webpack.base.conf.js",
+				"/E/laragon/www/guji/src/components/home/swiper.vue",
+				"/E/laragon/www/guji/src/components/home/swiper.js",
+				"/E/laragon/www/guji/src/components/account/ucenter.vue",
+				"/E/laragon/www/guji/src/filter/index.js",
+				"/E/laragon/www/guji/src/components/Order.vue",
+				"/E/laragon/www/guji/src/components/Account.vue",
+				"/E/laragon/www/guji/src/components/Test.vue",
+				"/C/Users/Deboy/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/E/laragon/www/guji/src/components/account/register.vue",
+				"/E/laragon/www/DeAdmin/src/components/article/add.vue",
+				"/E/laragon/www/guji/dist/index.html",
+				"/E/laragon/www/guji/index.html",
+				"/E/laragon/www/guji/config.js",
+				"/E/laragon/www/guji/node_modules/vux/log.log",
+				"/E/laragon/www/guji/src/components/Hello.vue",
+				"/E/laragon/www/guji/package.json",
+				"/E/laragon/www/guji/.git/config",
+				"/E/laragon/www/guji/.gitignore",
+				"/C/Users/Deboy/AppData/Roaming/Sublime Text 3/Packages/User/vue.sublime-settings",
 				"/C/Users/Deboy/Desktop/testPay.js",
 				"/E/laragon/www/paotui/dist/assets/js/app_b4c7f37.js",
 				"/E/laragon/www/paotui/dist/index.html",
@@ -1766,51 +773,15 @@
 				"/E/laragon/www/DeAdmin/src/components/article/trash.vue",
 				"/E/laragon/www/DeAdmin/src/components/article/manage.vue",
 				"/E/laragon/www/DeAdmin/src/components/article/category.vue",
-				"/E/laragon/www/DeAdmin/src/components/article/add.vue",
 				"/E/laragon/www/DeAdmin/src/main.js",
-				"/C/Users/Deboy/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/C/Users/Deboy/AppData/Roaming/Sublime Text 3/Packages/User/vue.sublime-settings",
 				"/E/laragon/www/DeAdmin/index.html",
 				"/E/laragon/www/DeAdmin/src/components/layout/footer.vue",
 				"/E/laragon/www/DeAdmin/package.json",
-				"/E/laragon/www/DeAdmin/README.md",
-				"/E/laragon/www/DeAdmin/.git/config",
-				"/C/Users/Deboy/.ssh/id_rsa.pub",
-				"/E/laragon/www/DeAdmin/src/components/layout/content.vue",
-				"/E/laragon/www/DeAdmin/static/css/AdminLTE.min.css",
-				"/E/laragon/www/DeAdmin/dist/static/css/AdminLTE.min.css",
-				"/E/laragon/www/DeAdmin/src/components/Home.vue",
-				"/E/laragon/www/DeAdmin/src/components/Hello.vue",
-				"/E/laragon/www/DeAdmin/src/router.js",
-				"/E/laragon/www/DeAdmin/.gitignore",
-				"/D/chrome下载/cvm.csv",
-				"/C/Users/Deboy/Desktop/histweather_sample.csv",
-				"/E/laragon/www/flight-delay/.gitignore",
-				"/E/laragon/www/flight-delay/api/lib/Analysis.class.php",
-				"/C/Users/Deboy/Desktop/query.conf",
-				"/E/laragon/www/flight-delay/help.html",
-				"/E/laragon/www/flight-delay/about.html",
-				"/E/laragon/www/flight-delay/flight.conf",
-				"/E/laragon/www/flight-delay/api/getFlightDelay.php",
-				"/E/laragon/www/flight-delay/package.json",
-				"/E/laragon/www/flight-delay/api/tpl.html",
-				"/E/laragon/www/flight-delay/api/tpl2.html",
-				"/E/laragon/www/flight-delay/api/lib/DB.class.php",
-				"/E/laragon/www/flight-delay/assets/css/app.css",
-				"/E/laragon/www/flight-delay/index.html",
-				"/E/laragon/www/flight-delay/assets/js/app.js",
-				"/E/laragon/www/flight-delay/api/lib.php",
-				"/E/laragon/www/flight-delay/api/library/DB.class.php",
-				"/E/laragon/www/flight-delay/api/library/CurlQuery.class.php",
-				"/E/laragon/www/flight-delay/node_modules/bootstrap/dist/css/bootstrap-theme.min.css",
-				"/E/laragon/www/flight-delay/api/library.php",
-				"/E/laragon/www/paotui/comp_src/task/AddTask.js",
-				"/E/laragon/www/paotui/comp_src/home/slideshow.js",
-				"/E/laragon/www/paotui/api/composer.json"
+				"/E/laragon/www/DeAdmin/README.md"
 			],
 			"find":
 			{
-				"height": 37.0
+				"height": 28.0
 			},
 			"find_in_files":
 			{
@@ -1824,6 +795,8 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"#f0f0f0",
+					"src",
 					"root",
 					"ropot",
 					"root",
@@ -1949,9 +922,1053 @@
 					"'<",
 					"'+",
 					"present",
-					"='",
-					"`",
-					"'"
+					"='"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"task",
+					"price",
+					"=>",
+					"changeTemplate",
+					"id",
+					"template",
+					"'",
+					"用户",
+					"../../assets",
+					"/static",
+					"/static/",
+					"../../assets",
+					"assets",
+					"checkbox-mater",
+					"form-group",
+					"label-mater{",
+					"input-mater",
+					"from-mater",
+					"node_modules",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 36.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"app",
+						"js\\app.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 338.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1168.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"mar",
+						"margin-top"
+					],
+					[
+						"f",
+						"flex"
+					],
+					[
+						"dingwei",
+						"a_dingweiyuan@2x.png	w:46 h:46"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"lo",
+						"Location"
+					],
+					[
+						"key",
+						"keyWord"
+					],
+					[
+						"fon",
+						"font-size"
+					],
+					[
+						"com",
+						"component"
+					],
+					[
+						"su",
+						"subRoutes"
+					],
+					[
+						"padd",
+						"padding"
+					],
+					[
+						"tex",
+						"text-align"
+					],
+					[
+						"te",
+						"text-align"
+					],
+					[
+						"li",
+						"list-style"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"reco",
+						"Recommedn"
+					],
+					[
+						"zao",
+						"a_zaocan@2x.png	w:126 h:126"
+					],
+					[
+						"main",
+						"main.less"
+					],
+					[
+						"fan",
+						"c_fanhui@2x.png	w:46 h:46"
+					],
+					[
+						"gouwu",
+						"a_gouwuche@2x.png	w:46 h:46"
+					],
+					[
+						"border",
+						"border-bottom"
+					],
+					[
+						"diancan",
+						"a_diancan2@2x.png	w:63 h:80"
+					],
+					[
+						"dian",
+						"a_diancan1@2x.png	w:63 h:80"
+					],
+					[
+						"s",
+						"style.less"
+					],
+					[
+						"wode",
+						"a_wode1@2x.png	w:63 h:80"
+					],
+					[
+						"din",
+						"a_dingdan1@2x.png	w:63 h:80"
+					],
+					[
+						"ch",
+						"chooseWXPay"
+					],
+					[
+						"error",
+						"errorCallBack"
+					],
+					[
+						"if",
+						"ifHave"
+					],
+					[
+						"err",
+						"errorMsg"
+					],
+					[
+						"can",
+						"canSubmit"
+					],
+					[
+						"sh",
+						"showMsg"
+					],
+					[
+						"sta",
+						"statusText"
+					],
+					[
+						"cance",
+						"cancelConfirm"
+					],
+					[
+						"show",
+						"showDetail"
+					],
+					[
+						"is",
+						"isPass"
+					],
+					[
+						"_",
+						"_FILES"
+					],
+					[
+						"file",
+						"files"
+					],
+					[
+						"ida",
+						"idCardFile"
+					],
+					[
+						"id",
+						"idCartFile"
+					],
+					[
+						"st",
+						"studentId"
+					],
+					[
+						"par",
+						"params"
+					],
+					[
+						"for",
+						"form"
+					],
+					[
+						"au",
+						"auth"
+					],
+					[
+						"auth",
+						"authText"
+					],
+					[
+						"template",
+						"templateJson"
+					],
+					[
+						"has",
+						"hasFill"
+					],
+					[
+						"form",
+						"form"
+					],
+					[
+						"tem",
+						"templateJson"
+					],
+					[
+						"inn",
+						"innerText"
+					],
+					[
+						"cli",
+						"clipboardData"
+					],
+					[
+						"item",
+						"itemSet"
+					],
+					[
+						"re",
+						"remove	.remove()"
+					],
+					[
+						"temla",
+						"templateList"
+					],
+					[
+						"array",
+						"array"
+					],
+					[
+						"arr",
+						"array"
+					],
+					[
+						"de",
+						"detail"
+					],
+					[
+						"sort",
+						"sortQuery"
+					],
+					[
+						"task",
+						"taskList"
+					],
+					[
+						"ba",
+						"background"
+					],
+					[
+						"bg",
+						"background	Attr"
+					],
+					[
+						"ale",
+						"alertList"
+					],
+					[
+						"fin",
+						"findpwd.vue"
+					],
+					[
+						"sub",
+						"subRoutes"
+					],
+					[
+						"Vu",
+						"VueResource"
+					],
+					[
+						"us",
+						"use"
+					],
+					[
+						"con",
+						"ContentHeaderConfig"
+					],
+					[
+						"to",
+						"toggle	.toggle()"
+					],
+					[
+						"ta",
+						"tarnsition"
+					],
+					[
+						"jq",
+						"jquery.min.js"
+					],
+					[
+						"j",
+						"jquery/"
+					],
+					[
+						"admi",
+						"AdminLTE.min.css"
+					],
+					[
+						"boo",
+						"bootstrap.min.css"
+					],
+					[
+						"A",
+						"AdminLTE.min.css"
+					],
+					[
+						"h",
+						"Home.vue"
+					],
+					[
+						"font-s",
+						"font-size"
+					],
+					[
+						"res",
+						"response"
+					],
+					[
+						"han",
+						"handlebars.min.js"
+					],
+					[
+						"fet",
+						"fetchRes"
+					],
+					[
+						"ex",
+						"explode"
+					],
+					[
+						"fe",
+						"fetchRes"
+					],
+					[
+						"js",
+						"json_encode"
+					],
+					[
+						"pu",
+						"public"
+					],
+					[
+						"prin",
+						"print_r"
+					],
+					[
+						"json",
+						"json_encode"
+					],
+					[
+						"a",
+						"arrairport"
+					],
+					[
+						"pro",
+						"progressInterval"
+					],
+					[
+						"po",
+						"progressInterval"
+					],
+					[
+						"set",
+						"setTimeout"
+					],
+					[
+						"pr",
+						"progress"
+					],
+					[
+						"margin",
+						"margin-top"
+					],
+					[
+						"min",
+						"min-height"
+					],
+					[
+						"b",
+						"bootstrap.min.css"
+					],
+					[
+						"jso",
+						"json_encode"
+					],
+					[
+						"ten",
+						"templateJSON"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"temp",
+						"templateId"
+					],
+					[
+						"bo",
+						"border-bottom"
+					],
+					[
+						"fro",
+						"form"
+					],
+					[
+						"ha",
+						"hasFill"
+					],
+					[
+						"MS",
+						"MessageBox"
+					],
+					[
+						"bor",
+						"border-bottom"
+					],
+					[
+						"selec",
+						"selected"
+					],
+					[
+						"edi",
+						"editing"
+					],
+					[
+						"ed",
+						"editable"
+					],
+					[
+						"user",
+						"username"
+					],
+					[
+						"se",
+						"set	set"
+					],
+					[
+						"en",
+						"editing"
+					],
+					[
+						"btn",
+						"btn-common"
+					],
+					[
+						"ma",
+						"margin-left"
+					],
+					[
+						"get",
+						"getItem"
+					],
+					[
+						"ge",
+						"getItem"
+					],
+					[
+						"_s",
+						"_SESSION"
+					],
+					[
+						"fil",
+						"file_put_contents"
+					],
+					[
+						"file_",
+						"file_get_contents"
+					],
+					[
+						"Lo",
+						"LOGIN_APi"
+					],
+					[
+						"log",
+						"logout"
+					],
+					[
+						"pass",
+						"password"
+					],
+					[
+						"ca",
+						"captcha"
+					],
+					[
+						"reS",
+						"reSendCount"
+					],
+					[
+						"send",
+						"sendText"
+					],
+					[
+						"rg",
+						"rgba(r,g,b,a)"
+					],
+					[
+						"inli",
+						"inline-block"
+					],
+					[
+						"box",
+						"box-sizing"
+					],
+					[
+						"in",
+						"input"
+					],
+					[
+						"do",
+						"domain"
+					],
+					[
+						"comp",
+						"complete"
+					],
+					[
+						"fontC",
+						"navFontColor"
+					],
+					[
+						"wa",
+						"wallet"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/E/laragon/www/paotui/comp_src/home/task-list.js",
+					"settings":
+					{
+						"buffer_size": 5237,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/laragon/www/paotui/comp_src/Present.js",
+					"settings":
+					{
+						"buffer_size": 2320,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/laragon/www/guji/.gitignore",
+					"settings":
+					{
+						"buffer_size": 105,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Users/Deboy/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 588,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 370.0,
+				"last_filter": "pack",
+				"selected_items":
+				[
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"profile events",
+						"Plugin Development: Profile Events"
+					],
+					[
+						"pa",
+						"Package Control: Disable Package"
+					],
+					[
+						"sysv",
+						"Set Syntax: Vue Component"
+					],
+					[
+						"sjs",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"sysjs",
+						"Set Syntax: JSON"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"sysp",
+						"Set Syntax: PHP"
+					],
+					[
+						"sysph",
+						"Set Syntax: PHP"
+					],
+					[
+						"sys",
+						"Set Syntax: PHP"
+					],
+					[
+						"syshe",
+						"Set Syntax: HTML (Erlang)"
+					],
+					[
+						"sysja",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"sy",
+						"Set Syntax: PHP"
+					],
+					[
+						"PACK",
+						"Package Control: Install Package"
+					],
+					[
+						"map",
+						"View: Toggle Minimap"
+					],
+					[
+						"theme",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"sid",
+						"View: Toggle Side Bar"
+					],
+					[
+						"sysjade",
+						"Set Syntax: Jade"
+					],
+					[
+						"sysle",
+						"Set Syntax: LESS"
+					],
+					[
+						"p",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 496.0
+			},
+			"console":
+			{
+				"height": 160.0,
+				"history":
+				[
+					"profile events;",
+					"profile events",
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/E/laragon/www/paotui",
+				"/E/laragon/www/paotui/comp_src/home",
+				"/E/laragon/www/paotui/comp_src/task"
+			],
+			"file_history":
+			[
+				"/E/laragon/www/guji/src/components/location/search.vue",
+				"/E/laragon/www/guji/src/components/home/list.vue",
+				"/E/laragon/www/guji/src/components/home/menu.vue",
+				"/E/laragon/www/guji/src/components/Home.vue",
+				"/E/laragon/www/guji/src/components/home/topbar.vue",
+				"/E/laragon/www/guji/src/components/common/topbar.vue",
+				"/E/laragon/www/guji/src/App.vue",
+				"/E/laragon/www/guji/src/components/Cart.vue",
+				"/E/laragon/www/guji/src/components/home/location.vue",
+				"/E/laragon/www/guji/src/components/home/snappup.vue",
+				"/E/laragon/www/guji/src/components/home/card.vue",
+				"/E/laragon/www/guji/src/components/common/tabbar.vue",
+				"/E/laragon/www/guji/src/components/home/recommend.vue",
+				"/E/laragon/www/guji/src/assets/home",
+				"/E/laragon/www/guji/src/services/readme.txt",
+				"/E/laragon/www/guji/src/services/location.vue",
+				"/E/laragon/www/guji/build/webpack.base.conf.js",
+				"/E/laragon/www/guji/src/components/home/swiper.vue",
+				"/E/laragon/www/guji/src/components/home/swiper.js",
+				"/E/laragon/www/guji/src/components/account/ucenter.vue",
+				"/E/laragon/www/guji/src/filter/index.js",
+				"/E/laragon/www/guji/src/components/Order.vue",
+				"/E/laragon/www/guji/src/components/Account.vue",
+				"/E/laragon/www/guji/src/components/Test.vue",
+				"/C/Users/Deboy/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/E/laragon/www/guji/src/components/account/register.vue",
+				"/E/laragon/www/DeAdmin/src/components/article/add.vue",
+				"/E/laragon/www/guji/dist/index.html",
+				"/E/laragon/www/guji/index.html",
+				"/E/laragon/www/guji/config.js",
+				"/E/laragon/www/guji/node_modules/vux/log.log",
+				"/E/laragon/www/guji/src/components/Hello.vue",
+				"/E/laragon/www/guji/package.json",
+				"/E/laragon/www/guji/.git/config",
+				"/E/laragon/www/guji/.gitignore",
+				"/C/Users/Deboy/AppData/Roaming/Sublime Text 3/Packages/User/vue.sublime-settings",
+				"/C/Users/Deboy/Desktop/testPay.js",
+				"/E/laragon/www/paotui/dist/assets/js/app_b4c7f37.js",
+				"/E/laragon/www/paotui/dist/index.html",
+				"/E/laragon/www/paotui/dist/assets/js/all.js",
+				"/E/laragon/www/paotui/dist/assets/js/app_12b8dac.js",
+				"/E/laragon/www/paotui/fis-conf.js",
+				"/C/Users/Deboy/Desktop/index.js",
+				"/E/laragon/www/paotui/comp_src/task/Detail.js",
+				"/E/laragon/www/guji/.eslintrc.js",
+				"/E/laragon/www/paotui/api/upload.php",
+				"/E/laragon/www/paotui/api/get.php",
+				"/E/laragon/www/paotui/comp_src/ucenter/Order.js",
+				"/E/laragon/www/guji/.editorconfig",
+				"/E/laragon/www/paotui/index.jade",
+				"/E/laragon/www/paotui/dist/.gitignore",
+				"/E/laragon/www/paotui/.gitignore",
+				"/E/laragon/www/paotui/.git/config",
+				"/E/laragon/www/paotui/dist/.git/config",
+				"/E/laragon/www/paotui/dist/components/Present_58a1633.js",
+				"/C/Users/Deboy/Desktop/.user.ini",
+				"/E/laragon/www/paotui/dist/assets/js/app_1b1704c.js",
+				"/E/laragon/www/paotui/doc/服务器信息.txt",
+				"/E/laragon/www/paotui/comp_src/ucenter/Wallet.js",
+				"/E/laragon/www/paotui/comp_src/task/Watch.js",
+				"/E/laragon/www/paotui/assets/css/app.less",
+				"/E/laragon/www/paotui/assets/css/media.less",
+				"/E/laragon/www/paotui/comp_src/ucenter/UHome.js",
+				"/E/laragon/www/test/index.html",
+				"/E/laragon/www/paotui/comp_src/home/task-list.js",
+				"/E/laragon/www/paotui/comp_src/ucenter/Personal.js",
+				"/E/laragon/www/paotui/comp_src/account/Auth.js",
+				"/E/laragon/www/paotui/comp_src/Ucenter.js",
+				"/E/laragon/www/paotui/comp_src/Home.js",
+				"/E/laragon/www/paotui/comp_src/Present.js",
+				"/E/laragon/www/paotui/comp_src/task/Task.js",
+				"/D/chrome下载/cvm (1).csv",
+				"/E/laragon/www/paotui/comp_src/common/empty-list.js",
+				"/E/laragon/www/paotui/assets/js/app.js",
+				"/C/Users/Deboy/AppData/Local/Temp/360zip$Temp/360$1/backIngOrder.js",
+				"/C/Users/Deboy/AppData/Local/Temp/360zip$Temp/360$0/photoUpload.js",
+				"/E/laragon/www/paotui/comp_src/Account.js",
+				"/E/laragon/www/paotui/comp_src/Test.js",
+				"/E/laragon/www/paotui/comp_src/task/Add.js",
+				"/E/laragon/www/paotui/api/count.php",
+				"/E/laragon/www/paotui/package.json",
+				"/E/laragon/www/paotui/components/account/CompleteUserInfo.js",
+				"/E/laragon/www/paotui/comp_src/account/Login.js",
+				"/E/laragon/www/paotui/comp_src/task/Pay.js",
+				"/E/laragon/www/paotui/components/Tool.js",
+				"/C/Users/Deboy/Desktop/connections.ncx",
+				"/C/Users/Deboy/AppData/Local/Temp/360zip$Temp/360$0/AuthMapper.java",
+				"/C/Users/Deboy/AppData/Local/Temp/360zip$Temp/360$1/Order.java",
+				"/C/Users/Deboy/AppData/Local/Temp/360zip$Temp/360$0/WalletController.java",
+				"/E/laragon/www/paotui/comp_src/Tool.js",
+				"/E/laragon/www/paotui/comp_src/task/Edit.js",
+				"/E/laragon/www/paotui/comp_src/common/Auth.js",
+				"/E/laragon/www/paotui/api/json.php",
+				"/E/laragon/www/paotui/comp_src/task/WatchTask.js",
+				"/C/Users/Deboy/AppData/Roaming/Sublime Text 3/.git/config",
+				"/C/Users/Deboy/Desktop/alert.html",
+				"/E/laragon/www/paotui/alert.html",
+				"/E/laragon/www/DeAdmin/src/components/account/findpwd.vue",
+				"/E/laragon/www/DeAdmin/src/components/account/login.vue",
+				"/E/laragon/www/DeAdmin/src/components/account/register.vue",
+				"/E/laragon/www/DeAdmin/src/components/Article.vue",
+				"/E/laragon/www/DeAdmin/src/components/User.vue",
+				"/E/laragon/www/DeAdmin/src/App.vue",
+				"/E/laragon/www/DeAdmin/src/components/user/add.vue",
+				"/E/laragon/www/DeAdmin/static/config/content.header.config.js",
+				"/E/laragon/www/DeAdmin/static/config/vue-resource.config.js",
+				"/E/laragon/www/DeAdmin/src/components/layout/aside.vue",
+				"/E/laragon/www/DeAdmin/src/components/layout/content-header.vue",
+				"/E/laragon/www/DeAdmin/dist/static/aside.config.js",
+				"/E/laragon/www/DeAdmin/src/components/Dashboard.vue",
+				"/E/laragon/www/DeAdmin/src/components/layout/header.vue",
+				"/E/laragon/www/DeAdmin/src/components/Account.vue",
+				"/E/laragon/www/DeAdmin/src/components/account",
+				"/E/laragon/www/DeAdmin/dist/static/js/app.js",
+				"/E/laragon/www/DeAdmin/dist/index.html",
+				"/E/laragon/www/DeAdmin/static/aside.config.js",
+				"/E/laragon/www/DeAdmin/static/content.header.config.js",
+				"/E/laragon/www/DeAdmin/src/components/user/blacklist.vue",
+				"/E/laragon/www/DeAdmin/src/components/user/manage.vue",
+				"/E/laragon/www/DeAdmin/src/components/layout/content-header-config.js",
+				"/E/laragon/www/DeAdmin/src/components/article/trash.vue",
+				"/E/laragon/www/DeAdmin/src/components/article/manage.vue",
+				"/E/laragon/www/DeAdmin/src/components/article/category.vue",
+				"/E/laragon/www/DeAdmin/src/main.js",
+				"/E/laragon/www/DeAdmin/index.html",
+				"/E/laragon/www/DeAdmin/src/components/layout/footer.vue",
+				"/E/laragon/www/DeAdmin/package.json",
+				"/E/laragon/www/DeAdmin/README.md"
+			],
+			"find":
+			{
+				"height": 28.0
+			},
+			"find_in_files":
+			{
+				"height": 96.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"#f0f0f0",
+					"src",
+					"root",
+					"ropot",
+					"root",
+					"length",
+					"ORDERLIST",
+					"orderList",
+					"3",
+					"2",
+					"1",
+					"state",
+					"showDetail",
+					"status",
+					"slectOneWithdraw",
+					"route",
+					"idCardFile",
+					"about",
+					"complete",
+					"detail",
+					"money",
+					".trim()",
+					"form",
+					"from",
+					"form",
+					"canSubmit",
+					"consoile",
+					"name",
+					"add-task",
+					"'",
+					"'+",
+					"'",
+					"'+",
+					":",
+					"stress",
+					"canLoadMore",
+					"changetemplate",
+					"task-list",
+					"task-info",
+					"toggleTemplateSelect",
+					"templateId",
+					"type",
+					"manage",
+					"分类管理",
+					"\"",
+					"\"n",
+					"文章",
+					"data",
+					"新增",
+					"png",
+					"/static/img",
+					"google",
+					"dist",
+					"true",
+					"dist",
+					"../../assets/",
+					"../../",
+					"dist",
+					"skin",
+					"assets",
+					"dist",
+					"Home",
+					"home",
+					"hot",
+					"start",
+					"出发",
+					"p>",
+					"<p",
+					"中国",
+					"南方",
+					"\"",
+					"flight-associate",
+					"\"",
+					"/",
+					"\"",
+					"/",
+					"\"",
+					"ml5",
+					"中国国航",
+					"time",
+					"class=\"time\"",
+					"time",
+					"%;\n",
+					"col-sm-2 ",
+					"checkbox",
+					"/a",
+					"a",
+					"2000",
+					"协议",
+					"'",
+					"+",
+					"'",
+					"'+",
+					"'",
+					"'+",
+					"task",
+					"'+",
+					"'",
+					"'+",
+					"reset-ul",
+					"'",
+					"'+",
+					"top-tabs",
+					"input-filed",
+					"'",
+					"'+",
+					"'",
+					"label{",
+					"input",
+					"from",
+					"'",
+					"'+",
+					"+",
+					"'",
+					"+",
+					"'",
+					"form-control",
+					"space",
+					"filed",
+					":",
+					"back-btn",
+					"form-control",
+					"boxErrorColor",
+					"body",
+					"'<",
+					"'+",
+					"present",
+					"='"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1995,24 +2012,24 @@
 			"groups":
 			[
 				{
-					"selected": 2,
+					"selected": 0,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/E/laragon/www/paotui/assets/js/app.js",
+							"file": "/E/laragon/www/paotui/comp_src/home/task-list.js",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 3647,
+								"buffer_size": 5237,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1827,
-										1827
+										4852,
+										4852
 									]
 								],
 								"settings":
@@ -2020,121 +2037,46 @@
 									"BracketHighlighterBusy": false,
 									"bh_regions":
 									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
 										"bh_unmatched",
 										"bh_unmatched_center",
 										"bh_unmatched_open",
 										"bh_unmatched_close",
 										"bh_unmatched_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
 										"bh_square_close",
 										"bh_square_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content"
-									],
-									"encoding_helper_encoding": "UTF-8",
-									"encoding_thread_running": true,
-									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 300.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/E/laragon/www/paotui/comp_src/task/Pay.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 3442,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1824,
-										1824
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
 										"bh_curly",
 										"bh_curly_center",
 										"bh_curly_open",
 										"bh_curly_close",
 										"bh_curly_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
 										"bh_double_quote",
 										"bh_double_quote_center",
 										"bh_double_quote_open",
@@ -2145,33 +2087,104 @@
 										"bh_tag_open",
 										"bh_tag_close",
 										"bh_tag_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
+									],
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 2580.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/E/laragon/www/paotui/comp_src/Present.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2320,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2317,
+										2317
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
 										"bh_square_close",
 										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
 										"bh_default",
 										"bh_default_center",
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content"
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
 									],
-									"encoding_helper_encoding": "UTF-8",
-									"encoding_thread_running": true,
 									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
 								},
-								"translation.x": 0.0,
-								"translation.y": 660.0,
+								"translation.x": -0.0,
+								"translation.y": 1200.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 1,
@@ -2179,24 +2192,24 @@
 						},
 						{
 							"buffer": 2,
+							"file": "/E/laragon/www/guji/.gitignore",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 725,
+								"buffer_size": 105,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										725,
-										725
+										105,
+										105
 									]
 								],
 								"settings":
 								{
 									"BracketHighlighterBusy": false,
-									"auto_indent": false,
 									"bh_regions":
 									[
 										"bh_c_define",
@@ -2204,26 +2217,41 @@
 										"bh_c_define_open",
 										"bh_c_define_close",
 										"bh_c_define_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
 										"bh_round",
 										"bh_round_center",
 										"bh_round_open",
 										"bh_round_close",
 										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
 										"bh_double_quote",
 										"bh_double_quote_center",
 										"bh_double_quote_open",
@@ -2234,123 +2262,13 @@
 										"bh_tag_open",
 										"bh_tag_close",
 										"bh_tag_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content"
-									],
-									"default_dir": "E:\\laragon\\www\\paotui",
-									"encoding_helper_encoding": "",
-									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"tab_width": 2,
-									"word_wrap": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/E/laragon/www/paotui/package.json",
-							"semi_transient": true,
-							"settings":
-							{
-								"buffer_size": 1019,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										963,
-										963
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
 										"bh_regex_close",
-										"bh_regex_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content"
+										"bh_regex_content"
 									],
-									"encoding_helper_encoding": "UTF-8",
-									"encoding_thread_running": true,
-									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
+									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -2360,20 +2278,20 @@
 							"type": "text"
 						},
 						{
-							"buffer": 4,
-							"file": "/E/laragon/www/paotui/comp_src/account/Register.js",
+							"buffer": 3,
+							"file": "/C/Users/Deboy/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 4453,
+								"buffer_size": 588,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1977,
-										1977
+										587,
+										587
 									]
 								],
 								"settings":
@@ -2381,51 +2299,46 @@
 									"BracketHighlighterBusy": false,
 									"bh_regions":
 									[
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
 										"bh_c_define",
 										"bh_c_define_center",
 										"bh_c_define_open",
 										"bh_c_define_close",
 										"bh_c_define_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
 										"bh_double_quote",
 										"bh_double_quote_center",
 										"bh_double_quote_open",
@@ -2435,17 +2348,21 @@
 										"bh_tag_center",
 										"bh_tag_open",
 										"bh_tag_close",
-										"bh_tag_content"
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
 									],
-									"encoding_helper_encoding": "UTF-8",
-									"encoding_thread_running": true,
-									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 4,
+							"stack_index": 2,
 							"type": "text"
 						}
 					]
@@ -2487,11 +2404,11 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,795,109,109,1293",
+			"position": "0,2,2,-32000,-32000,-1,-1,785,314,99,1498",
 			"project": "",
 			"replace":
 			{
-				"height": 70.0
+				"height": 52.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -2533,12 +2450,1256 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 211.0,
+			"side_bar_width": 338.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 43,
+			"window_id": 55,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"mar",
+						"margin-top"
+					],
+					[
+						"f",
+						"flex"
+					],
+					[
+						"dingwei",
+						"a_dingweiyuan@2x.png	w:46 h:46"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"lo",
+						"Location"
+					],
+					[
+						"key",
+						"keyWord"
+					],
+					[
+						"fon",
+						"font-size"
+					],
+					[
+						"com",
+						"component"
+					],
+					[
+						"su",
+						"subRoutes"
+					],
+					[
+						"padd",
+						"padding"
+					],
+					[
+						"tex",
+						"text-align"
+					],
+					[
+						"te",
+						"text-align"
+					],
+					[
+						"li",
+						"list-style"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"reco",
+						"Recommedn"
+					],
+					[
+						"zao",
+						"a_zaocan@2x.png	w:126 h:126"
+					],
+					[
+						"main",
+						"main.less"
+					],
+					[
+						"fan",
+						"c_fanhui@2x.png	w:46 h:46"
+					],
+					[
+						"gouwu",
+						"a_gouwuche@2x.png	w:46 h:46"
+					],
+					[
+						"border",
+						"border-bottom"
+					],
+					[
+						"diancan",
+						"a_diancan2@2x.png	w:63 h:80"
+					],
+					[
+						"dian",
+						"a_diancan1@2x.png	w:63 h:80"
+					],
+					[
+						"s",
+						"style.less"
+					],
+					[
+						"wode",
+						"a_wode1@2x.png	w:63 h:80"
+					],
+					[
+						"din",
+						"a_dingdan1@2x.png	w:63 h:80"
+					],
+					[
+						"ch",
+						"chooseWXPay"
+					],
+					[
+						"error",
+						"errorCallBack"
+					],
+					[
+						"if",
+						"ifHave"
+					],
+					[
+						"err",
+						"errorMsg"
+					],
+					[
+						"can",
+						"canSubmit"
+					],
+					[
+						"sh",
+						"showMsg"
+					],
+					[
+						"sta",
+						"statusText"
+					],
+					[
+						"cance",
+						"cancelConfirm"
+					],
+					[
+						"show",
+						"showDetail"
+					],
+					[
+						"is",
+						"isPass"
+					],
+					[
+						"_",
+						"_FILES"
+					],
+					[
+						"file",
+						"files"
+					],
+					[
+						"ida",
+						"idCardFile"
+					],
+					[
+						"id",
+						"idCartFile"
+					],
+					[
+						"st",
+						"studentId"
+					],
+					[
+						"par",
+						"params"
+					],
+					[
+						"for",
+						"form"
+					],
+					[
+						"au",
+						"auth"
+					],
+					[
+						"auth",
+						"authText"
+					],
+					[
+						"template",
+						"templateJson"
+					],
+					[
+						"has",
+						"hasFill"
+					],
+					[
+						"form",
+						"form"
+					],
+					[
+						"tem",
+						"templateJson"
+					],
+					[
+						"inn",
+						"innerText"
+					],
+					[
+						"cli",
+						"clipboardData"
+					],
+					[
+						"item",
+						"itemSet"
+					],
+					[
+						"re",
+						"remove	.remove()"
+					],
+					[
+						"temla",
+						"templateList"
+					],
+					[
+						"array",
+						"array"
+					],
+					[
+						"arr",
+						"array"
+					],
+					[
+						"de",
+						"detail"
+					],
+					[
+						"sort",
+						"sortQuery"
+					],
+					[
+						"task",
+						"taskList"
+					],
+					[
+						"ba",
+						"background"
+					],
+					[
+						"bg",
+						"background	Attr"
+					],
+					[
+						"ale",
+						"alertList"
+					],
+					[
+						"fin",
+						"findpwd.vue"
+					],
+					[
+						"sub",
+						"subRoutes"
+					],
+					[
+						"Vu",
+						"VueResource"
+					],
+					[
+						"us",
+						"use"
+					],
+					[
+						"con",
+						"ContentHeaderConfig"
+					],
+					[
+						"to",
+						"toggle	.toggle()"
+					],
+					[
+						"ta",
+						"tarnsition"
+					],
+					[
+						"jq",
+						"jquery.min.js"
+					],
+					[
+						"j",
+						"jquery/"
+					],
+					[
+						"admi",
+						"AdminLTE.min.css"
+					],
+					[
+						"boo",
+						"bootstrap.min.css"
+					],
+					[
+						"A",
+						"AdminLTE.min.css"
+					],
+					[
+						"h",
+						"Home.vue"
+					],
+					[
+						"font-s",
+						"font-size"
+					],
+					[
+						"res",
+						"response"
+					],
+					[
+						"han",
+						"handlebars.min.js"
+					],
+					[
+						"fet",
+						"fetchRes"
+					],
+					[
+						"ex",
+						"explode"
+					],
+					[
+						"fe",
+						"fetchRes"
+					],
+					[
+						"js",
+						"json_encode"
+					],
+					[
+						"pu",
+						"public"
+					],
+					[
+						"prin",
+						"print_r"
+					],
+					[
+						"json",
+						"json_encode"
+					],
+					[
+						"a",
+						"arrairport"
+					],
+					[
+						"pro",
+						"progressInterval"
+					],
+					[
+						"po",
+						"progressInterval"
+					],
+					[
+						"set",
+						"setTimeout"
+					],
+					[
+						"pr",
+						"progress"
+					],
+					[
+						"margin",
+						"margin-top"
+					],
+					[
+						"min",
+						"min-height"
+					],
+					[
+						"b",
+						"bootstrap.min.css"
+					],
+					[
+						"jso",
+						"json_encode"
+					],
+					[
+						"ten",
+						"templateJSON"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"temp",
+						"templateId"
+					],
+					[
+						"bo",
+						"border-bottom"
+					],
+					[
+						"fro",
+						"form"
+					],
+					[
+						"ha",
+						"hasFill"
+					],
+					[
+						"MS",
+						"MessageBox"
+					],
+					[
+						"bor",
+						"border-bottom"
+					],
+					[
+						"selec",
+						"selected"
+					],
+					[
+						"edi",
+						"editing"
+					],
+					[
+						"ed",
+						"editable"
+					],
+					[
+						"user",
+						"username"
+					],
+					[
+						"se",
+						"set	set"
+					],
+					[
+						"en",
+						"editing"
+					],
+					[
+						"btn",
+						"btn-common"
+					],
+					[
+						"ma",
+						"margin-left"
+					],
+					[
+						"get",
+						"getItem"
+					],
+					[
+						"ge",
+						"getItem"
+					],
+					[
+						"_s",
+						"_SESSION"
+					],
+					[
+						"fil",
+						"file_put_contents"
+					],
+					[
+						"file_",
+						"file_get_contents"
+					],
+					[
+						"Lo",
+						"LOGIN_APi"
+					],
+					[
+						"log",
+						"logout"
+					],
+					[
+						"pass",
+						"password"
+					],
+					[
+						"ca",
+						"captcha"
+					],
+					[
+						"reS",
+						"reSendCount"
+					],
+					[
+						"send",
+						"sendText"
+					],
+					[
+						"rg",
+						"rgba(r,g,b,a)"
+					],
+					[
+						"inli",
+						"inline-block"
+					],
+					[
+						"box",
+						"box-sizing"
+					],
+					[
+						"in",
+						"input"
+					],
+					[
+						"do",
+						"domain"
+					],
+					[
+						"comp",
+						"complete"
+					],
+					[
+						"fontC",
+						"navFontColor"
+					],
+					[
+						"wa",
+						"wallet"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Users/Deboy/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 597,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/E/laragon/www/guji/static/.gitkeep",
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 370.0,
+				"last_filter": "pack",
+				"selected_items":
+				[
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"profile events",
+						"Plugin Development: Profile Events"
+					],
+					[
+						"pa",
+						"Package Control: Disable Package"
+					],
+					[
+						"sysv",
+						"Set Syntax: Vue Component"
+					],
+					[
+						"sjs",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"sysjs",
+						"Set Syntax: JSON"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"sysp",
+						"Set Syntax: PHP"
+					],
+					[
+						"sysph",
+						"Set Syntax: PHP"
+					],
+					[
+						"sys",
+						"Set Syntax: PHP"
+					],
+					[
+						"syshe",
+						"Set Syntax: HTML (Erlang)"
+					],
+					[
+						"sysja",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"sy",
+						"Set Syntax: PHP"
+					],
+					[
+						"PACK",
+						"Package Control: Install Package"
+					],
+					[
+						"map",
+						"View: Toggle Minimap"
+					],
+					[
+						"theme",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"sid",
+						"View: Toggle Side Bar"
+					],
+					[
+						"sysjade",
+						"Set Syntax: Jade"
+					],
+					[
+						"sysle",
+						"Set Syntax: LESS"
+					],
+					[
+						"p",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 496.0
+			},
+			"console":
+			{
+				"height": 160.0,
+				"history":
+				[
+					"profile events;",
+					"profile events",
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/E/laragon/www/guji"
+			],
+			"file_history":
+			[
+				"/E/laragon/www/guji/src/components/location/search.vue",
+				"/E/laragon/www/guji/src/components/home/list.vue",
+				"/E/laragon/www/guji/src/components/home/menu.vue",
+				"/E/laragon/www/guji/src/components/Home.vue",
+				"/E/laragon/www/guji/src/components/home/topbar.vue",
+				"/E/laragon/www/guji/src/components/common/topbar.vue",
+				"/E/laragon/www/guji/src/App.vue",
+				"/E/laragon/www/guji/src/components/Cart.vue",
+				"/E/laragon/www/guji/src/components/home/location.vue",
+				"/E/laragon/www/guji/src/components/home/snappup.vue",
+				"/E/laragon/www/guji/src/components/home/card.vue",
+				"/E/laragon/www/guji/src/components/common/tabbar.vue",
+				"/E/laragon/www/guji/src/components/home/recommend.vue",
+				"/E/laragon/www/guji/src/assets/home",
+				"/E/laragon/www/guji/src/services/readme.txt",
+				"/E/laragon/www/guji/src/services/location.vue",
+				"/E/laragon/www/guji/build/webpack.base.conf.js",
+				"/E/laragon/www/guji/src/components/home/swiper.vue",
+				"/E/laragon/www/guji/src/components/home/swiper.js",
+				"/E/laragon/www/guji/src/components/account/ucenter.vue",
+				"/E/laragon/www/guji/src/filter/index.js",
+				"/E/laragon/www/guji/src/components/Order.vue",
+				"/E/laragon/www/guji/src/components/Account.vue",
+				"/E/laragon/www/guji/src/components/Test.vue",
+				"/C/Users/Deboy/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/E/laragon/www/guji/src/components/account/register.vue",
+				"/E/laragon/www/DeAdmin/src/components/article/add.vue",
+				"/E/laragon/www/guji/dist/index.html",
+				"/E/laragon/www/guji/index.html",
+				"/E/laragon/www/guji/config.js",
+				"/E/laragon/www/guji/node_modules/vux/log.log",
+				"/E/laragon/www/guji/src/components/Hello.vue",
+				"/E/laragon/www/guji/package.json",
+				"/E/laragon/www/guji/.git/config",
+				"/E/laragon/www/guji/.gitignore",
+				"/C/Users/Deboy/AppData/Roaming/Sublime Text 3/Packages/User/vue.sublime-settings",
+				"/C/Users/Deboy/Desktop/testPay.js",
+				"/E/laragon/www/paotui/dist/assets/js/app_b4c7f37.js",
+				"/E/laragon/www/paotui/dist/index.html",
+				"/E/laragon/www/paotui/dist/assets/js/all.js",
+				"/E/laragon/www/paotui/dist/assets/js/app_12b8dac.js",
+				"/E/laragon/www/paotui/fis-conf.js",
+				"/C/Users/Deboy/Desktop/index.js",
+				"/E/laragon/www/paotui/comp_src/task/Detail.js",
+				"/E/laragon/www/guji/.eslintrc.js",
+				"/E/laragon/www/paotui/api/upload.php",
+				"/E/laragon/www/paotui/api/get.php",
+				"/E/laragon/www/paotui/comp_src/ucenter/Order.js",
+				"/E/laragon/www/guji/.editorconfig",
+				"/E/laragon/www/paotui/index.jade",
+				"/E/laragon/www/paotui/dist/.gitignore",
+				"/E/laragon/www/paotui/.gitignore",
+				"/E/laragon/www/paotui/.git/config",
+				"/E/laragon/www/paotui/dist/.git/config",
+				"/E/laragon/www/paotui/dist/components/Present_58a1633.js",
+				"/C/Users/Deboy/Desktop/.user.ini",
+				"/E/laragon/www/paotui/dist/assets/js/app_1b1704c.js",
+				"/E/laragon/www/paotui/doc/服务器信息.txt",
+				"/E/laragon/www/paotui/comp_src/ucenter/Wallet.js",
+				"/E/laragon/www/paotui/comp_src/task/Watch.js",
+				"/E/laragon/www/paotui/assets/css/app.less",
+				"/E/laragon/www/paotui/assets/css/media.less",
+				"/E/laragon/www/paotui/comp_src/ucenter/UHome.js",
+				"/E/laragon/www/test/index.html",
+				"/E/laragon/www/paotui/comp_src/home/task-list.js",
+				"/E/laragon/www/paotui/comp_src/ucenter/Personal.js",
+				"/E/laragon/www/paotui/comp_src/account/Auth.js",
+				"/E/laragon/www/paotui/comp_src/Ucenter.js",
+				"/E/laragon/www/paotui/comp_src/Home.js",
+				"/E/laragon/www/paotui/comp_src/Present.js",
+				"/E/laragon/www/paotui/comp_src/task/Task.js",
+				"/D/chrome下载/cvm (1).csv",
+				"/E/laragon/www/paotui/comp_src/common/empty-list.js",
+				"/E/laragon/www/paotui/assets/js/app.js",
+				"/C/Users/Deboy/AppData/Local/Temp/360zip$Temp/360$1/backIngOrder.js",
+				"/C/Users/Deboy/AppData/Local/Temp/360zip$Temp/360$0/photoUpload.js",
+				"/E/laragon/www/paotui/comp_src/Account.js",
+				"/E/laragon/www/paotui/comp_src/Test.js",
+				"/E/laragon/www/paotui/comp_src/task/Add.js",
+				"/E/laragon/www/paotui/api/count.php",
+				"/E/laragon/www/paotui/package.json",
+				"/E/laragon/www/paotui/components/account/CompleteUserInfo.js",
+				"/E/laragon/www/paotui/comp_src/account/Login.js",
+				"/E/laragon/www/paotui/comp_src/task/Pay.js",
+				"/E/laragon/www/paotui/components/Tool.js",
+				"/C/Users/Deboy/Desktop/connections.ncx",
+				"/C/Users/Deboy/AppData/Local/Temp/360zip$Temp/360$0/AuthMapper.java",
+				"/C/Users/Deboy/AppData/Local/Temp/360zip$Temp/360$1/Order.java",
+				"/C/Users/Deboy/AppData/Local/Temp/360zip$Temp/360$0/WalletController.java",
+				"/E/laragon/www/paotui/comp_src/Tool.js",
+				"/E/laragon/www/paotui/comp_src/task/Edit.js",
+				"/E/laragon/www/paotui/comp_src/common/Auth.js",
+				"/E/laragon/www/paotui/api/json.php",
+				"/E/laragon/www/paotui/comp_src/task/WatchTask.js",
+				"/C/Users/Deboy/AppData/Roaming/Sublime Text 3/.git/config",
+				"/C/Users/Deboy/Desktop/alert.html",
+				"/E/laragon/www/paotui/alert.html",
+				"/E/laragon/www/DeAdmin/src/components/account/findpwd.vue",
+				"/E/laragon/www/DeAdmin/src/components/account/login.vue",
+				"/E/laragon/www/DeAdmin/src/components/account/register.vue",
+				"/E/laragon/www/DeAdmin/src/components/Article.vue",
+				"/E/laragon/www/DeAdmin/src/components/User.vue",
+				"/E/laragon/www/DeAdmin/src/App.vue",
+				"/E/laragon/www/DeAdmin/src/components/user/add.vue",
+				"/E/laragon/www/DeAdmin/static/config/content.header.config.js",
+				"/E/laragon/www/DeAdmin/static/config/vue-resource.config.js",
+				"/E/laragon/www/DeAdmin/src/components/layout/aside.vue",
+				"/E/laragon/www/DeAdmin/src/components/layout/content-header.vue",
+				"/E/laragon/www/DeAdmin/dist/static/aside.config.js",
+				"/E/laragon/www/DeAdmin/src/components/Dashboard.vue",
+				"/E/laragon/www/DeAdmin/src/components/layout/header.vue",
+				"/E/laragon/www/DeAdmin/src/components/Account.vue",
+				"/E/laragon/www/DeAdmin/src/components/account",
+				"/E/laragon/www/DeAdmin/dist/static/js/app.js",
+				"/E/laragon/www/DeAdmin/dist/index.html",
+				"/E/laragon/www/DeAdmin/static/aside.config.js",
+				"/E/laragon/www/DeAdmin/static/content.header.config.js",
+				"/E/laragon/www/DeAdmin/src/components/user/blacklist.vue",
+				"/E/laragon/www/DeAdmin/src/components/user/manage.vue",
+				"/E/laragon/www/DeAdmin/src/components/layout/content-header-config.js",
+				"/E/laragon/www/DeAdmin/src/components/article/trash.vue",
+				"/E/laragon/www/DeAdmin/src/components/article/manage.vue",
+				"/E/laragon/www/DeAdmin/src/components/article/category.vue",
+				"/E/laragon/www/DeAdmin/src/main.js",
+				"/E/laragon/www/DeAdmin/index.html",
+				"/E/laragon/www/DeAdmin/src/components/layout/footer.vue",
+				"/E/laragon/www/DeAdmin/package.json",
+				"/E/laragon/www/DeAdmin/README.md"
+			],
+			"find":
+			{
+				"height": 28.0
+			},
+			"find_in_files":
+			{
+				"height": 96.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"#f0f0f0",
+					"src",
+					"root",
+					"ropot",
+					"root",
+					"length",
+					"ORDERLIST",
+					"orderList",
+					"3",
+					"2",
+					"1",
+					"state",
+					"showDetail",
+					"status",
+					"slectOneWithdraw",
+					"route",
+					"idCardFile",
+					"about",
+					"complete",
+					"detail",
+					"money",
+					".trim()",
+					"form",
+					"from",
+					"form",
+					"canSubmit",
+					"consoile",
+					"name",
+					"add-task",
+					"'",
+					"'+",
+					"'",
+					"'+",
+					":",
+					"stress",
+					"canLoadMore",
+					"changetemplate",
+					"task-list",
+					"task-info",
+					"toggleTemplateSelect",
+					"templateId",
+					"type",
+					"manage",
+					"分类管理",
+					"\"",
+					"\"n",
+					"文章",
+					"data",
+					"新增",
+					"png",
+					"/static/img",
+					"google",
+					"dist",
+					"true",
+					"dist",
+					"../../assets/",
+					"../../",
+					"dist",
+					"skin",
+					"assets",
+					"dist",
+					"Home",
+					"home",
+					"hot",
+					"start",
+					"出发",
+					"p>",
+					"<p",
+					"中国",
+					"南方",
+					"\"",
+					"flight-associate",
+					"\"",
+					"/",
+					"\"",
+					"/",
+					"\"",
+					"ml5",
+					"中国国航",
+					"time",
+					"class=\"time\"",
+					"time",
+					"%;\n",
+					"col-sm-2 ",
+					"checkbox",
+					"/a",
+					"a",
+					"2000",
+					"协议",
+					"'",
+					"+",
+					"'",
+					"'+",
+					"'",
+					"'+",
+					"task",
+					"'+",
+					"'",
+					"'+",
+					"reset-ul",
+					"'",
+					"'+",
+					"top-tabs",
+					"input-filed",
+					"'",
+					"'+",
+					"'",
+					"label{",
+					"input",
+					"from",
+					"'",
+					"'+",
+					"+",
+					"'",
+					"+",
+					"'",
+					"form-control",
+					"space",
+					"filed",
+					":",
+					"back-btn",
+					"form-control",
+					"boxErrorColor",
+					"body",
+					"'<",
+					"'+",
+					"present",
+					"='"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"task",
+					"price",
+					"=>",
+					"changeTemplate",
+					"id",
+					"template",
+					"'",
+					"用户",
+					"../../assets",
+					"/static",
+					"/static/",
+					"../../assets",
+					"assets",
+					"checkbox-mater",
+					"form-group",
+					"label-mater{",
+					"input-mater",
+					"from-mater",
+					"node_modules",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "E:\\laragon\\www\\guji"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/Deboy/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 597,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										564,
+										564
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
+									],
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": -0.0,
+								"translation.y": 300.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/E/laragon/www/guji/static/.gitkeep",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
+									],
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 36.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,1,-32000,-32000,-1,-1,816,130,130,1314",
+			"project": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"app",
+						"js\\app.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 151.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 56,
 			"workspace_name": ""
 		}
 	],
